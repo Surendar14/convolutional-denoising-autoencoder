@@ -1,6 +1,6 @@
 ### EXP NO: 07
 
-### .
+### 
 
 # <p align = "center"> Convolutional Autoencoder for Image Denoising </p>
 
