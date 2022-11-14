@@ -33,8 +33,8 @@ Plot the predictions for visualization.
 
 ## <br><br>PROGRAM
 ```
-Developed by: Kumaran B
-Reg No: 212220230026
+Developed by: Surendar S
+Reg No: 212220230051
 
 from tensorflow import keras
 from tensorflow.keras import layers
