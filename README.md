@@ -32,7 +32,7 @@ Pass test data for validating manually.
 Plot the predictions for visualization.
 
 ## <br><br>PROGRAM
-```
+```python
 Developed by: Surendar S
 Reg No: 212220230051
 
